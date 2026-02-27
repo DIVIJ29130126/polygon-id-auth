@@ -1,2 +1,1 @@
 # polygon-id-auth
-readme
